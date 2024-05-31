@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite1" verbose="1" >
+    <test name="Testing Get" >
+        <classes>
+            <class name="org.example.tests.TestGetPerson" />
+        </classes>
+    </test>
+    <test name="Testing Post" >
+        <classes>
+            <class name="org.example.tests.TestPostPerson" />
+        </classes>
+    </test>
+    <test name="Testing Patch" >
+        <classes>
+            <class name="org.example.tests.TestPatchPerson" />
+        </classes>
+    </test>
+</suite>

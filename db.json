@@ -1,0 +1,22 @@
+{
+  "ping": {
+    "result": "pong"
+  },
+  "users": [
+    {
+      "email": "sownd@abc.com",
+      "password": "1234",
+      "id": "0694"
+    }
+  ],
+  "persons": [
+    {
+      "firstname": "Sowndharya",
+      "lastname": "S",
+      "age": 28,
+      "id": "1",
+      "address": "Melbourne",
+      "phoneNumbers": "0450123456"
+    }
+  ]
+}

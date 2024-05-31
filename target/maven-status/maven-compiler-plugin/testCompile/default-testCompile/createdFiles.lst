@@ -1,0 +1,4 @@
+org\example\tests\TestPatchPerson.class
+org\example\tests\TestGetPerson.class
+org\example\tests\TestPostPerson.class
+org\example\tests\TestDeletePerson.class
